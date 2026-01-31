@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/header.svg" width="85%" />
+</p>
+
+<br/>
+
 <h2 align="center">GitHub 3D Contribution</h2>
 
 <p align="center">
