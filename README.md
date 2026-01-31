@@ -2,9 +2,9 @@
   <img src="./assets/header.svg" width="85%" />
 </p>
 
-<br/>
-
-<h2 align="center">GitHub 3D Contribution</h2>
+<h2 align="center" style="margin-top: 8px;">
+  GitHub 3D Contribution
+</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -21,7 +21,7 @@
       />
     </td>
     <td align="right">
-      <em style="opacity:0.8;">
+      <em>
         There are 10 types of people in this world: those who understand binary and those who don't.
       </em>
     </td>
