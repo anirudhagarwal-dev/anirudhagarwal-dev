@@ -9,3 +9,21 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img
+        src="https://github.githubassets.com/images/mona-loading-default.gif"
+        width="90"
+        height="90"
+        alt="mona loading"
+      />
+    </td>
+    <td align="right">
+      <em style="opacity:0.8;">
+        There are 10 types of people in this world: those who understand binary and those who don't.
+      </em>
+    </td>
+  </tr>
+</table>
