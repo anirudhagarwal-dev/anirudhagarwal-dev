@@ -19,16 +19,16 @@
         height="90"
         alt="mona loading"
       />
-    </td>
-    <td align="right">
-      <em>
-        There are 10 types of people in this world: those who understand binary and those who don't.
-      </em>
       <br />
       <img
         src="https://komarev.com/ghpvc/?username=anirudhagarwal-dev&style=flat"
         alt="Profile View Counter"
       />
+    </td>
+    <td align="right">
+      <em>
+        There are 10 types of people in this world: those who understand binary and those who don't.
+      </em>
     </td>
   </tr>
 </table>
