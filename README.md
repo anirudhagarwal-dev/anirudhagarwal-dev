@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhagarwal-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=anirudhagarwal-dev&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhagarwal-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <table width="100%">
