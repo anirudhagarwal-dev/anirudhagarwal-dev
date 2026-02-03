@@ -11,8 +11,12 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anirudhagarwal-dev&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=anirudhagarwal-dev&theme=radical&hide_border=true" />
 </p>
+
+<div align="center"> 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
+</div>
 
 <table width="100%">
   <tr>
