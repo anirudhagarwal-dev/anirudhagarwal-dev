@@ -18,6 +18,11 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
 </div>
 
+<div align="center"> 
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhagarwal-dev&bg_color=0d1117&color=ff4d8d&line=ff2f92&point=ff85c2&area=true&area_color=ff2f92&hide_border=true" 
+        alt="Hot Pink Contribution Graph" /> 
+ </div>
+
 <table width="100%">
   <tr>
     <td align="left">
