@@ -23,6 +23,10 @@
         alt="Hot Pink Contribution Graph" /> 
  </div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,git,github,linux,sql&theme=dark" />
+</p>
+
 <table width="100%">
   <tr>
     <td align="left">
@@ -52,3 +56,7 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:005eff,100:00d4ff&height=120&section=footer" />
+</div>
