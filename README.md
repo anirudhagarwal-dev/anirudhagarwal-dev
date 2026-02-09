@@ -24,7 +24,7 @@
  </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,git,github,linux,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,git,github,linux,sql,vercel,figma&theme=dark" />
 </p>
 
 <table width="100%">
