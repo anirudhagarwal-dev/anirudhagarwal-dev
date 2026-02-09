@@ -24,7 +24,7 @@
  </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,git,github,linux,sql,vercel,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,git,github,linux,vercel,figma&theme=dark" />
 </p>
 
 <table width="100%">
@@ -56,6 +56,18 @@
     </td>
   </tr>
 </table>
+
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anirudhagarwal-dev&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhagarwal-dev&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:005eff,100:00d4ff&height=120&section=footer" />
