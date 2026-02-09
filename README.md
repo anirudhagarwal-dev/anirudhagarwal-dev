@@ -10,9 +10,17 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anirudhagarwal-dev&theme=radical&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anirudhagarwal-dev&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=anirudhagarwal-dev&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 
 <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
@@ -57,17 +65,17 @@
   </tr>
 </table>
 
+<!-- <table align="center">
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anirudhagarwal-dev&theme=github_dark" />
+    <td align="left">
+      <img src="https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif" width="310" height="310" />
     </td>
-    <td>
+    <td align="right">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhagarwal-dev&theme=github_dark" />
     </td>
   </tr>
-</table>
-<table>
-  <tr>
+</table> -->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:005eff,100:00d4ff&height=120&section=footer" />
