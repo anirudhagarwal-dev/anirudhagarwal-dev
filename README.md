@@ -35,6 +35,10 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,git,github,linux,vercel,figma&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="./assets/badges.png" alt="Badges" />
+</p>
+
 <table width="100%">
   <tr>
     <td align="left">
