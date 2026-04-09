@@ -78,5 +78,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:005eff,100:00d4ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2f92,50:130028,100:0d1117&height=130&section=footer" />
 </div>
