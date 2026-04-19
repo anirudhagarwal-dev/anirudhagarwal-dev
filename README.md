@@ -22,9 +22,11 @@
 </table>
 
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
-</div>
+</div> -->
+
+[![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <div align="center"> 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhagarwal-dev&bg_color=0d1117&color=ff4d8d&line=ff2f92&point=ff85c2&area=true&area_color=ff2f92&hide_border=true" 
